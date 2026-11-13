@@ -9,7 +9,7 @@ Dữ liệu: 12 ảnh người COCO val2017 và 8 ảnh khuôn mặt cắt từ 
 - Họ tên: Nguyễn Thế Anh
 - MSSV: 2A202603242 
 - Email: ntheanh291@gmail.com
-- Link repository:
+- Link repository: https://github.com/ntha291/K5-L2A-DAY04-NguyenTheAnh-2A202603242-KeypointPose.git
 - Phiên bản CVAT (Help → About): Đã kiểm tra
 - Máy: Windows · RAM 7.8 GB · CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): Có 
